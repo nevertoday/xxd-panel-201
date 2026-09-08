@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 201"
+  short_description: "Cream-toned Handcrafted Miniature"
+  default_prompt: "Use $xxd-panel-201 to transform my photograph following the complete canonical source brief."
