@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 201"
-  short_description: "Cream-toned Handcrafted Miniature"
-  default_prompt: "Use $xxd-panel-201 to transform my photograph following the complete canonical source brief."
+  short_description: "奶油手作微缩立体：把照片主体做成一件奶油色系的手作微缩摆件，哑光材质，柔光，大片留白"
+  default_prompt: "Use $xxd-panel-201 to turn my photo into Cream-toned Handcrafted Miniature artwork."

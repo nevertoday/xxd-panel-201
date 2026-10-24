@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 201｜Cream-toned Handcrafted Miniature: condenses a photo's subject and its spatial relationships into one small handcrafted 3D miniature — like a model made of papier-mâché, soft clay, wood, fabric or matte ceramic, with simple rounded forms and refined detail — displayed near the centre of wide whitespace like a quiet ornament. Lighting is soft and even, without strong highlights, heavy shadows or plastic shine. Colours stay within one warm neutral family (off-white, ivory, cream, oat, light camel, soft grey-brown) with only a hint of muted grey-green, misty blue, soft pink or pale terracotta. Any text is small, thin and gentle, like an exhibition label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-201 or asks for a cream-toned, matte clay or handmade miniature diorama from a photo.",
+  "short_description": "奶油手作微缩立体：把照片主体做成一件奶油色系的手作微缩摆件，哑光材质，柔光，大片留白",
+  "zh-CN": {
+    "name": "奶油手作微缩立体",
+    "tagline": "把照片主体做成一件奶油色系的手作微缩摆件，安静地放在大片留白里。",
+    "look": "主体和它所在的空间被浓缩成一件小小的手作微缩立体装置，像纸浆、软陶、木作、织物或哑光陶土做的模型，造型简洁圆润，细节精炼。它居中或略偏地放在大片留白里，像一个安静的摆件，光线柔和均匀，没有强高光、厚阴影或塑料反光。颜色几乎都在米白、象牙、奶油、燕麦、浅驼和柔和灰褐之间，靠深浅区分层次，只加极少的灰绿、雾蓝、柔粉或浅陶土色。如果有字，是小而纤细、像展签或物件标签的文字。",
+    "traits": ["手作微缩", "哑光材质", "奶油同色系", "柔和光线", "大片留白"],
+    "good": [
+      "外形简单、能做成摆件的主体：一栋小房子、一只狗、一辆自行车、一个咖啡杯",
+      "空间关系清楚的小场景：一个小院子、一张书桌、一个小车站",
+      "想做温和安静的生活方式配图或头像的照片"
+    ],
+    "poor": [
+      "鲜艳色彩本身就是重点的照片：彩色涂鸦、热带花卉、霓虹灯",
+      "大场景、人群和复杂背景，做成微缩会失去重点",
+      "想要写实 CG、塑料玩具感或电商陈列效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Cream-toned Handcrafted Miniature",
+    "tagline": "Turns a photo's subject into a small cream-toned handmade miniature, set quietly in wide whitespace.",
+    "look": "The subject and the space around it are condensed into one small handcrafted 3D miniature, like a model made of papier-mâché, soft clay, wood, fabric or matte ceramic, with simple, rounded forms and refined detail. It sits at or near the centre of wide whitespace like a quiet ornament, under soft, even light with no strong highlights, heavy shadows or plastic shine. Colours stay almost entirely within off-white, ivory, cream, oat, light camel and soft grey-brown, layered by lightness, with only a hint of grey-green, misty blue, soft pink or pale terracotta. Any text is small and thin, like an exhibition label or an object tag.",
+    "traits": ["Handmade miniature", "Matte materials", "Cream tone-on-tone", "Soft light", "Wide whitespace"],
+    "good": [
+      "Subjects with a simple form that could be an ornament: a small house, a dog, a bicycle, a coffee cup",
+      "Small scenes with clear spatial relationships: a little courtyard, a desk, a small station",
+      "Photos you want as a gentle, quiet lifestyle image or avatar"
+    ],
+    "poor": [
+      "Photos where bright colour is the point: colourful graffiti, tropical flowers, neon",
+      "Large scenes, crowds and complex backgrounds, which lose their point as a miniature",
+      "Requests for realistic CG, a plastic toy look or e-commerce product staging"
+    ]
+  },
+  "ja": {
+    "name": "クリーム色の手作りミニチュア",
+    "tagline": "写真の主役をクリーム色の手作りミニチュアの置物にし、広い余白に静かに置きます。",
+    "look": "主役とその空間を、紙粘土、ソフト粘土、木工、布、マットな陶土でつくった模型のような小さな手作りの立体ミニチュアに凝縮します。形はシンプルで丸みがあり、細部はよく絞り込まれています。広い余白の中央かやや外した位置に静かな置物のように置かれ、光は柔らかく均一で、強いハイライト、重い影、プラスチックの反射はありません。色はほぼオフホワイト、アイボリー、クリーム、オートミール、淡いキャメル、柔らかな灰褐の中に収まり、明るさの差で層をつくり、灰緑、霧のような青、柔らかなピンク、淡いテラコッタをほんの少しだけ加えます。文字を入れる場合は、展示ラベルや物の札のような小さく細い文字にします。",
+    "traits": ["手作りミニチュア", "マットな素材", "クリームの同系色", "柔らかな光", "広い余白"],
+    "good": [
+      "置物にできるシンプルな形の主役：小さな家、犬、自転車、コーヒーカップ",
+      "空間の関係がはっきりした小さな場面：小さな中庭、机、小さな駅",
+      "穏やかで静かなライフスタイル画像やアイコンにしたい写真"
+    ],
+    "poor": [
+      "鮮やかな色そのものが見どころの写真：カラフルな落書き、南国の花、ネオン",
+      "大きな場面、人混み、複雑な背景は、ミニチュアにすると要点が消えます",
+      "写実的な CG、プラスチックのおもちゃ感、EC の商品撮影のような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "크림색 수공예 미니어처",
+    "tagline": "사진의 주인공을 크림색 수공예 미니어처 장식품으로 만들어 넓은 여백에 조용히 놓습니다.",
+    "look": "주인공과 그 공간을 종이죽, 소프트 클레이, 목공, 천, 무광 도토로 만든 모형 같은 작은 수공예 입체 미니어처로 압축합니다. 형태는 단순하고 둥글며 디테일은 잘 정제되어 있습니다. 넓은 여백의 가운데나 살짝 비켜난 곳에 조용한 장식품처럼 놓이고, 빛은 부드럽고 고르며 강한 하이라이트, 무거운 그림자, 플라스틱 반사는 없습니다. 색은 거의 오프화이트, 아이보리, 크림, 귀리색, 연한 카멜, 부드러운 회갈색 안에 머물며 명도 차이로 층을 만들고, 회녹색, 안개 파랑, 부드러운 분홍, 연한 테라코타를 아주 조금만 더합니다. 글자를 넣는다면 전시 라벨이나 물건 꼬리표 같은 작고 가는 글자로 둡니다.",
+    "traits": ["수공예 미니어처", "무광 재질", "크림 톤온톤", "부드러운 빛", "넓은 여백"],
+    "good": [
+      "장식품으로 만들 수 있는 단순한 형태의 주인공: 작은 집, 강아지, 자전거, 커피잔",
+      "공간 관계가 분명한 작은 장면: 작은 안뜰, 책상, 작은 역",
+      "온화하고 조용한 라이프스타일 이미지나 프로필 사진으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "선명한 색 자체가 핵심인 사진: 알록달록한 그래피티, 열대 꽃, 네온",
+      "큰 장면, 인파, 복잡한 배경은 미니어처로 만들면 요점이 사라집니다",
+      "사실적인 CG, 플라스틱 장난감 느낌, 쇼핑몰 상품 연출을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مجسم يدوي مصغر بدرجات كريمية",
+    "tagline": "يحوّل عنصر الصورة إلى مجسم مصغر مصنوع يدوياً بدرجات كريمية، يستقر بهدوء وسط فراغ واسع.",
+    "look": "يُكثَّف العنصر والمكان من حوله في مجسم ثلاثي الأبعاد صغير مصنوع يدوياً، كأنه نموذج من عجينة الورق أو الصلصال اللين أو الخشب أو القماش أو الخزف غير اللامع، بأشكال بسيطة مستديرة وتفاصيل مختزلة بعناية. يستقر في وسط فراغ واسع أو قريباً منه كقطعة زينة هادئة، تحت ضوء ناعم متساوٍ بلا لمعات قوية ولا ظلال ثقيلة ولا بريق بلاستيكي. تبقى الألوان كلها تقريباً بين الأبيض المائل إلى الكريمي والعاجي والكريمي ولون الشوفان والجملي الفاتح والبني الرمادي الناعم، وتتدرج الطبقات بالفاتح والداكن، مع لمحة فقط من الأخضر الرمادي أو الأزرق الضبابي أو الوردي الناعم أو التيراكوتا الفاتح. إن وُجد نص فهو صغير رفيع، كبطاقة معرض أو ملصق على قطعة.",
+    "traits": ["مجسم يدوي مصغر", "خامات غير لامعة", "درجات كريمية متقاربة", "ضوء ناعم", "فراغ واسع"],
+    "good": [
+      "عناصر بسيطة الشكل تصلح قطعة زينة: بيت صغير، كلب، دراجة، فنجان قهوة",
+      "مشاهد صغيرة واضحة العلاقات المكانية: فناء صغير، مكتب، محطة صغيرة",
+      "صور تريدها صورة هادئة لأسلوب الحياة أو صورة شخصية"
+    ],
+    "poor": [
+      "صور جوهرها اللون الزاهي: رسوم جدارية ملونة، أزهار استوائية، أضواء النيون",
+      "المشاهد الكبيرة والحشود والخلفيات المعقدة، فهي تفقد جوهرها حين تصبح مجسماً مصغراً",
+      "طلب رسوم حاسوبية واقعية أو مظهر ألعاب بلاستيكية أو عرض منتجات تجارية"
+    ]
+  }
+}

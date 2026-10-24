@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-201
-description: "Create Panel 201 raster artwork: Cream-toned Handcrafted Miniature. Use when the user invokes xxd-panel-201 or requests this specific visual language."
+description: "XXD Panel 201｜Cream-toned Handcrafted Miniature: condenses a photo's subject and its spatial relationships into one small handcrafted 3D miniature — like a model made of papier-mâché, soft clay, wood, fabric or matte ceramic, with simple rounded forms and refined detail — displayed near the centre of wide whitespace like a quiet ornament. Lighting is soft and even, without strong highlights, heavy shadows or plastic shine. Colours stay within one warm neutral family (off-white, ivory, cream, oat, light camel, soft grey-brown) with only a hint of muted grey-green, misty blue, soft pink or pale terracotta. Any text is small, thin and gentle, like an exhibition label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-201 or asks for a cream-toned, matte clay or handmade miniature diorama from a photo."
 ---
 
 # XXD Panel 201
